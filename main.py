@@ -2,8 +2,8 @@ import smtplib
 import datetime as dt
 import random
 
-email = "etest5469@gmail.com"
-password = "12pass34"
+email = "" # enter email here
+password = "" # enter password here
 
 # select random quote
 with open(file="quotes.txt") as quotes:
